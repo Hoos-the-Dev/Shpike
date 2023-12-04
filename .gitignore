@@ -1,0 +1,5 @@
+
+resources/apikey.py
+ffmpeg/bin/ffplay.exe
+ffmpeg/bin/ffprobe.exe
+ffmpeg/bin/ffmpeg.exe
